@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud6/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test blog post</title>
-      <link>https://skyly-night.github.io/skycloud6/public/this-is-going-to-be-online/</link>
+      <title>Test 3</title>
+      <link>https://skyly-night.github.io/skycloud6/public/posts/test-3/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://skyly-night.github.io/skycloud6/public/this-is-going-to-be-online/</guid>
-      <description>Hey, this is a simple and short test to see if I can push posts online like this aswell.</description>
-      <content>&lt;p&gt;Hey, this is a simple and short test to see if I can push posts online like this aswell.&lt;/p&gt;
+      <guid>https://skyly-night.github.io/skycloud6/public/posts/test-3/</guid>
+      <description>This is another test, to see if only the files in the online folder get published :)</description>
+      <content>&lt;p&gt;This is another test, to see if only the files in the online folder get published :)&lt;/p&gt;
 </content>
     </item>
     

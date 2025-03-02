@@ -6,48 +6,15 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud6/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud6/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third blog post</title>
-      <link>https://skyly-night.github.io/skycloud6/public/posts/welcome-to-my-blog/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Test 3</title>
+      <link>https://skyly-night.github.io/skycloud6/public/posts/test-3/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://skyly-night.github.io/skycloud6/public/posts/welcome-to-my-blog/</guid>
-      <description>I was thinking of creating a blog since quite a while. I want to express who I am and share my ideas with other people. So, I guess the internet is just the perfect place to do so :)
-Soo, to get started, I think that I&amp;rsquo;m going to talk a lot about my thoughts, quite a lot of philosophy probably and anything else that means something to me. This is kind of a dream coming true right now, and who knows where I&amp;rsquo;ll end up on this journey!</description>
-      <content>&lt;p&gt;I was thinking of creating a blog since quite a while. I want to express who I am and share my ideas with other people. So, I guess the internet is just the perfect place to do so :)&lt;/p&gt;
-&lt;p&gt;Soo, to get started, I think that I&amp;rsquo;m going to talk a lot about my thoughts, quite a lot of philosophy probably and anything else that means something to me. This is kind of a dream coming true right now, and who knows where I&amp;rsquo;ll end up on this journey!&lt;/p&gt;
-&lt;p&gt;I think this will be a lot of fun, and I made my GitHub-Repository public, so you can go and comment on there, what I could do next, or share your own ideas with me!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>First blog post</title>
-      <link>https://skyly-night.github.io/skycloud6/public/posts/my-first-blogpost/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://skyly-night.github.io/skycloud6/public/posts/my-first-blogpost/</guid>
-      <description>Here I can write the text, which is later going to be uploaded to the repository. What is written in here, is what will be published to my blog :)
-This feels so insanely powerful! I fricking love Hugo by now, this feels soo awesome!!</description>
-      <content>&lt;p&gt;Here I can write the text, which is later going to be uploaded to the repository.
-What is written in here, is what will be published to my blog :)&lt;/p&gt;
-&lt;p&gt;This feels so insanely powerful!
-I fricking love Hugo by now, this feels soo awesome!!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Seccond blog post</title>
-      <link>https://skyly-night.github.io/skycloud6/public/posts/test-blogpost/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://skyly-night.github.io/skycloud6/public/posts/test-blogpost/</guid>
-      <description>Here I can write the text, which is later going to be uploaded to the repository. What is written in here, is what will be published to my blog :)
-This feels so insanely powerful! I fricking love Hugo by now, this feels soo awesome!!</description>
-      <content>&lt;p&gt;Here I can write the text, which is later going to be uploaded to the repository.
-What is written in here, is what will be published to my blog :)&lt;/p&gt;
-&lt;p&gt;This feels so insanely powerful!
-I fricking love Hugo by now, this feels soo awesome!!&lt;/p&gt;
+      <guid>https://skyly-night.github.io/skycloud6/public/posts/test-3/</guid>
+      <description>This is another test, to see if only the files in the online folder get published :)</description>
+      <content>&lt;p&gt;This is another test, to see if only the files in the online folder get published :)&lt;/p&gt;
 </content>
     </item>
     

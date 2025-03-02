@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://skyly-night.github.io/skycloud6/public/tags/blog-skylar-experiment-onlinetest/</loc>
+    <loc>https://skyly-night.github.io/skycloud6/public/tags/blog/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud6/public/tags/experiment/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud6/public/tags/onlinetest/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud6/public/posts/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skyly-night.github.io/skycloud6/public/tags/skylar/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyly-night.github.io/skycloud6/public/tags/</loc>
@@ -11,7 +23,7 @@
     <loc>https://skyly-night.github.io/skycloud6/public/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://skyly-night.github.io/skycloud6/public/this-is-going-to-be-online/</loc>
+    <loc>https://skyly-night.github.io/skycloud6/public/posts/test-3/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skyly-night.github.io/skycloud6/public/categories/</loc>

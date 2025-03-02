@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onlines on Terminal</title>
+    <link>https://skyly-night.github.io/skycloud6/public/online/</link>
+    <description>Recent content in Onlines on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skyly-night.github.io/skycloud6/public/online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test blog post</title>
+      <link>https://skyly-night.github.io/skycloud6/public/online/this-is-going-to-be-online/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://skyly-night.github.io/skycloud6/public/online/this-is-going-to-be-online/</guid>
+      <description>Hey, this is a simple and short test to see if I can push posts online like this aswell.</description>
+      <content>&lt;p&gt;Hey, this is a simple and short test to see if I can push posts online like this aswell.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
